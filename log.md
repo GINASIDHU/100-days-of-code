@@ -4,12 +4,11 @@
 
 **Today's Intentions**: Start working on my Python skills to eventually become confident in Python.
 
-**Today's Progress**: 
+**Today's Progress**: Found some data on Wine ratings and price. Loaded the data and created a basic plot.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The process of setting up this repo and connecting it to VS Code came with a lot of challenges. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
+**Link to work:** https://github.com/GINASIDHU/wine-forecasting/blob/main/red-wine.py
 ### Day 2: 
 
 **Today's Progress**: 
